@@ -1,9 +1,14 @@
 # Learning Zustand - Persist Middleware
-- Иршенко Кирилл
-- Zustand v5.0.16
-- https://github.com/pmndrs/zustand
+
+- **Автор**: Иршенко Кирилл
+- **Стек:** React, TypeScript, Vite
+- **Библиотека:** Zustand 5.0.16
+- **Исследуемый механизм:** Persist Middleware
 
 ## Инструкция запуска
-- git clone https://github.com/va2892/learning-zustand.git
-- npm install
-- npm run dev
+
+```bash
+git clone https://github.com/va2892/learning-zustand.git
+npm install
+npm run dev
+```
