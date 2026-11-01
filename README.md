@@ -7,10 +7,9 @@
 
 ## Исходный код библиотеки
 
-https://github.com/pmndrs/zustand
+Версия v5.0.16: https://github.com/pmndrs/zustand/blob/v5.0.16
 
-Основной исследуемый файл:
-https://github.com/pmndrs/zustand/blob/v5.0.16/src/middleware/persist.ts
+Основной исследуемый файл: https://github.com/pmndrs/zustand/blob/v5.0.16/src/middleware/persist.ts
 
 ## Инструкция запуска
 
