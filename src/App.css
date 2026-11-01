@@ -1,6 +1,8 @@
-.counter {
-  font-size: 16px;
-  padding: 5px 10px;
+.counter, 
+.helper {
+  font-size: 20px;
+  font-weight: 700;
+  padding: 10px 20px;
   border-radius: 5px;
   color: var(--accent);
   background: var(--accent-bg);
@@ -14,6 +16,27 @@
   &:focus-visible {
     outline: 2px solid var(--accent);
     outline-offset: 2px;
+  }
+}
+
+input.counter {
+  color: white;
+  background: var(--code-bg);
+
+  &:hover {
+    border-color: var(--border);
+  }
+}
+
+.helper {
+  font-size: 16px;
+  font-weight: 400;
+  padding: 6px 14px;
+  color: var(--text);
+  background: var(--code-bg);
+
+  &:hover {
+    border-color: var(--border);
   }
 }
 
