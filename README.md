@@ -15,6 +15,7 @@
 
 ```bash
 git clone https://github.com/va2892/learning-zustand.git
+cd learning-zustand
 npm install
 npm run dev
 ```
